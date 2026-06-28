@@ -53,7 +53,7 @@
 </td>
 <td width="50%" valign="top">
 
-### SVD `(2025)`
+### SVD `(2026)`
 
 ```
  Write Probe →  curl Baseline →  Change Code →  curl Verify  →  Deliver
